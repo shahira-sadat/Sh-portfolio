@@ -67,7 +67,7 @@ const projects = [
     description: "A simple website to store your favorite books by category, a Microverse project Created with React.js.",
     imageUrl: "./images/project_images/Bookstore.png",
     technologies: ["React", "Redux","JavaScript", "CSS", "ES6 modules", "JSX"],
-    liveVersion: "https://bookstore-shahir.herokuapp.com/",
+    liveVersion: "https://63b814cfc34c5640965174fd--sensational-mooncake-98c180.netlify.app/",
     source: "https://github.com/shahira-sadat/Bookstore",
   },
 ];
