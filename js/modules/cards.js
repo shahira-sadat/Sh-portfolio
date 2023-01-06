@@ -7,7 +7,7 @@ function cards(name, technologies, img, index) {
       <h3 class="card-title">${name}</h3>
       <ul class="list technologies-list-${index}">
       </ul>
-      <p class="seepr-button">See Project</p>
+      <button class="seepr-button">See Project</button>
     </div>
   </div>`;
 

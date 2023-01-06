@@ -25,7 +25,7 @@ const projects = [
     liveVersion: "https://63b8275e3d1874037b53705a--ephemeral-kulfi-5ff8b7.netlify.app/",
     source: "https://github.com/shahira-sadat/To-Do-list",
   },
-
+  
   {
     title: "Awesome Books",
     description: "A mobile web application where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spent and on what.",

@@ -25,18 +25,18 @@ const popup = (name, img, desc, tech, liveVersion, projectSource, index) => {
   </div>
   <div class="popup-description">${desc}</div>
   <div class="popup-buttons">
+   <a class="live" target="_blank" href=${liveVersion}>
     <div class="live-button">
-      <a class="live" target="_blank" href=${liveVersion}>
         See Live
-      </a>
       <img src="images/live-icon.svg" alt="" />
     </div>
-    <div class="live-button ml">
-      <a class="live" target="_blank" href=${projectSource}>
-        See Source
       </a>
+       <a class="live" target="_blank" href=${projectSource}>
+    <div class="live-button ml">
+        See Source
       <img src="images/source-icon.svg" alt="" />
     </div>
+    </a>
   </div>
   `;
 
