@@ -46,10 +46,10 @@ const projects = [
 
   {
     title: "Math Magicians",
-    description: "In this project I am creating a Single Page App using React regarding basic Calculator and its functionalities.",
+    description: "Math Magicians is a website that allows users simple calculations and read a random math-releted quote.",
     imageUrl: "./images/project_images/math.png",
     technologies: ["React", "JavaScript", "CSS", "ES6 modules", "JSX"],
-    liveVersion: "https://62f4719741529b5c0ef9e4a1--verdant-griffin-6890d8.netlify.app/#/",
+    liveVersion: "https://63b813543282cd3d473ce766--verdant-griffin-6890d8.netlify.app/#/",
     source: "https://github.com/shahira-sadat/MathMagicians",
   },
 
