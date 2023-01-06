@@ -18,26 +18,26 @@ const projects = [
   },
 
   {
-    title: "Bootcamp.af",
-    description: "Bootcamp.af - is a youtube based e-learning platform shortlisted as one of the top 50 semifinalists in Google Developer Student Club Solution Challange 2021.",
-    imageUrl: "./images/project_images/bootcamp.png",
-    technologies: ["React", "Redux", "Express.js", "Firebase", "Google Cloud APIs (Youtube API, Google Classroom API)"],
-    liveVersion: "https://bootcamp.af/",
-    source: "https://github.com/ahzia/Bootcamp",
+    title: "To Do App",
+    description: "A web app designed to keep track of activities that are done and those that are and not done. Users can add, delete, mark as completed and update the activities.",
+    imageUrl: "./images/project_images/todo.png",
+    technologies: ["HTML5", "JavaScript (ES6)", "Webpack"],
+    liveVersion: "https://63b8275e3d1874037b53705a--ephemeral-kulfi-5ff8b7.netlify.app/",
+    source: "https://github.com/shahira-sadat/To-Do-list",
   },
 
   {
-    title: "Budget Manager",
+    title: "Awesome Books",
     description: "A mobile web application where you can manage your budget: you have a list of transactions associated with a category so that you can see how much money you spent and on what.",
-    imageUrl: "./images/project_images/BudgetManager.png",
-    technologies: ["Ruby on Rails", "Ruby", "Devise", "JavaScript", "CSS", "Html", "Bootstrap"],
-    liveVersion: "https://github.com/shahira-sadat/Budget-app",
-    source: "https://github.com/shahira-sadat/Budget-app",
+    imageUrl: "./images/project_images/awesomebooks.png",
+    technologies: [ "JavaScript", "CSS", "Node", "Bootstrap", "HTML"],
+    liveVersion: "https://63b82446fd6bac008d32e4f6--dainty-hamster-e6d80a.netlify.app/",
+    source: "https://github.com/shahira-sadat/Awesome-books",
   },
 
   {
     title: "Space Travelers' Hub",
-    description: "This is a web application that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.",
+    description: "A basic website that allows users to add/remove books from a list.",
     imageUrl: "./images/project_images/spacehub.png",
     technologies: ["JavaScript", "React", "Redux", "CSS", "Html"],
     liveVersion: "https://630733198d53a95fb699dec3--dreamy-blini-ee4660.netlify.app/",
