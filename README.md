@@ -90,7 +90,6 @@ Start the server
 This is a showcase of who I am. What I am doing, my GOALS, my preferred STACK, my PROJECTS, and their Details,
 my RESUME, how someone can contact me, and lastly how can I be an excellent fit for your company?
 
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
