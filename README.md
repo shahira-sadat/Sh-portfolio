@@ -116,7 +116,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## Acknowledgments <a name="acknowledgements"></a>
 
 - [Microverse](https://www.microverse.org/)
 - [Readme Template](https://github.com/microverseinc/readme-template/blob/master/README.md)
