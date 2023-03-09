@@ -9,7 +9,6 @@
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
-
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
   - [🚀 Live Demo](#live-demo)
